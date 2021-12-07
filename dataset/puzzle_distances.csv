@@ -1,0 +1,14 @@
+﻿sources,targets,distances
+a,b,5
+a,c,3
+b,c,2
+b,e,3
+b,g,1
+c,d,7
+c,e,7
+d,a,2
+d,f,6
+e,d,2
+e,f,1
+f,,0
+g,e,1
