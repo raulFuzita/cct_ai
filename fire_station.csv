@@ -1,0 +1,8 @@
+officers,yes,no,office,not_office,next,not_next
+Phylis,,Eva,1,,,
+Ann,,Phylis; Eva,,,,Phylis; Eva
+Henry,Eva,Phylis; Ann; Bill; Mark; Bob,,,,
+Eva,,Mark; Bob; Bill,,,,
+Bill,,Phylis,,,,
+Mark,Bob,,,,,
+Bob,Mark,,,,,
