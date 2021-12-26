@@ -1,8 +1,8 @@
 officers,yes,no,office,no_office_adjacent
-Phylis,,"Eva, Henry, Bill",1,Ann
-Ann,,"Phylis; Eva, Henry",,Phylis; Eva
+Phylis,,Eva,1,
+Ann,,Phylis; Eva,,Phylis; Eva
 Henry,Eva,Phylis; Ann; Bill; Mark; Bob,,
-Eva,,"Mark; Bob; Bill, Ann",,Ann
-Bill,,"Phylis, Henry, Eva",,
-Mark,Bob,Henry,,
-Bob,Mark,Henry,,
+Eva,,Mark; Bob; Bill,,
+Bill,,Phylis,,
+Mark,Bob,,,
+Bob,Mark,,,
