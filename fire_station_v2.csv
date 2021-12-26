@@ -2,7 +2,7 @@ officers,yes,no,office,no_office_adjacent
 Phylis,,Eva; Henry; Bill,1,Ann
 Ann,,Phylis; Eva; Henry,,Phylis; Eva
 Henry,Eva,Phylis; Ann; Bill; Mark; Bob,,
-Eva,,Mark; Bob; Bill,,Ann
+Eva,Henry,Mark; Bob; Bill,,Ann
 Bill,,Phylis; Henry; Eva,,
 Mark,Bob,Henry; Eva,,
 Bob,Mark,Henry; Eva,,
