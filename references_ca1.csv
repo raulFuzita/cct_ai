@@ -2,3 +2,36 @@ Type_of_Source,Author,Title,Book_Title,Year,Month,Day,Pages,City,Publisher,Edito
 Book section,John,Python,OOP,2022,,,1,"Ireland, Dublin",bookshelf,Jack,,,,
 Web site,Microsoft,What is a machine learning model?,,2022,,,,,,,https:www.ml.com,2022,March,8
 Document from web site,"John, Peter",Data Science,,2022,January,10,,,,,https:www.ml.com,2022,March,10
+Book section,"Peter Bruce, Andrew Bruce, and Peter Gedeck, 978-1-492-07294-2",Practical Statistics for Data Scientists,K-Nearest Neighbors,2020,April,10,238,"United States of America, Gravenstein Highway North, Sebastopol",O’Reilly,Nicole Tache,,2022,March,16
+Book section,"Peter Bruce, Andrew Bruce, and Peter Gedeck, 978-1-492-07294-2",Practical Statistics for Data Scientists,Tree Models,2020,April,10,249,"United States of America, Gravenstein Highway North, Sebastopol",O’Reilly,Nicole Tache,,2022,March,16
+Book section,"Peter Bruce, Andrew Bruce, and Peter Gedeck, 978-1-492-07294-2",Practical Statistics for Data Scientists,Choosing K,2020,April,10,246,"United States of America, Gravenstein Highway North, Sebastopol",O’Reilly,Nicole Tache,,2022,March,16
+Web site,Analytics,Exploratory Data Analysis (EDA) – A step by step guide,,2021,,,,,,,https://www.analyticsvidhya.com/blog/2021/05/exploratory-data-analysis-eda-a-step-by-step-guide/,2022,March,20
+Web site,"Pilkington North America, Inc.",Pilkington Float Glass Process,,2013,,,,,,,https://youtu.be/ig4G5WbOMLc,2022,March,16
+Document from web site,Weber State University,Chem 2990 Refractive Index Readings.pdf,,2022,,,,,,,https://faculty.weber.edu/ewalker/Chem2990/Chem%202990%20Refractive%20Index%20Readings.pdf,2022,March,16
+Web site,Blender Basecamp,What Is The Index Of Refraction (IOR) Of Glass?,,2022,,,,,,,https://blenderbasecamp.com/home/what-is-the-index-of-refraction-ior-of-glass/,2022,March,16
+Web site,GPI,Glass Composition,,2022,,,,,,,https://www.gpi.org/glass-composition,2022,March,16
+Web site,StatQuest with Josh Starmer,"Quantiles and Percentiles, Clearly Explained",,2017,,,,,,,https://youtu.be/IFKQLDmRK0Y,2022,March,16
+Web site,Springer Link,Barium-containing glass as an efficient substitute for high-lead glass in the production of light sources,,2020,,,,,,,https://link.springer.com/article/10.1007/BF02681275,2022,March,16
+Web site,Analytics India Magazine,6 Types of Classification Algorithms,,2018,,,,,,,https://youtu.be/ppXFoltcX7A,2022,March,17
+Web site,Seaborn,seaborn.boxplot,,2022,,,,,,,https://seaborn.pydata.org/generated/seaborn.boxplot.html,2022,March,17
+Web site,Stack Overflow,Normalize columns of pandas data frame,,2019,,,,,,,https://stackoverflow.com/questions/26414913/normalize-columns-of-pandas-data-frame,2022,March,17
+Web site,Stack Overflow,How to Group by column value in Pandas Data frame,,2018,,,,,,,https://stackoverflow.com/questions/53260050/how-to-group-by-column-value-in-pandas-data-frame,2022,March,17
+Web site,Scikit Learn,sklearn.neighbors.KNeighborsClassifier,,2022,,,,,,,https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html,2022,March,19
+Web site,Scikit Learn,Dimensionality Reduction with Neighborhood Components Analysis,,2022,,,,,,,https://scikit-learn.org/stable/auto_examples/neighbors/plot_nca_dim_reduction.html#sphx-glr-auto-examples-neighbors-plot-nca-dim-reduction-py,2022,March,19
+Web site,Stack Overflow,Adding text annotation to a clustering scatter plot (tSNE),,2018,,,,,,,https://stackoverflow.com/questions/51120412/adding-text-annotation-to-a-clustering-scatter-plot-tsne,2022,March,19
+Web site,Statology,How to Add Legend to Scatterplot in Matplotlib,,2021,,,,,,,https://www.statology.org/matplotlib-scatterplot-legend/,2022,March,19
+Web site,Seaborn,seaborn.scatterplot,,2022,,,,,,,https://seaborn.pydata.org/generated/seaborn.scatterplot.html,2022,March,19
+Web site,Stack Overflow,Python: replacing outliers values with median values,,2017,,,,,,,https://stackoverflow.com/questions/45386955/python-replacing-outliers-values-with-median-values,2022,March,20
+Web site,Statology,How to Use “NOT IN” Filter in Pandas (With Examples),,2021,,,,,,,https://www.statology.org/pandas-not-in/,2022,March,20
+Web site,TDS,Ways to Detect and Remove the Outliers,,2018,,,,,,,https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba,2022,March,20
+Web site,TDS,How to reuse your Python models without retraining them,,2020,,,,,,,https://towardsdatascience.com/how-to-reuse-your-python-models-without-retraining-them-39cd685659a5,2022,March,21
+Web site,Stack Overflow,How to do N Cross validation in KNN python sklearn?,,2016,,,,,,,https://stackoverflow.com/questions/40815008/how-to-do-n-cross-validation-in-knn-python-sklearn,2022,March,22
+Web site,Geeksforgeeks,How to randomly select rows from Pandas DataFrame,,2022,,,,,,,https://www.geeksforgeeks.org/how-to-randomly-select-rows-from-pandas-dataframe/,2022,March,22
+Web site,Scikit Learn,3.1. Cross-validation: evaluating estimator performance,,2022,,,,,,,https://scikit-learn.org/stable/modules/cross_validation.html#stratification,2022,March,22
+Web site,Scikit Learn,3.1.2.2.1. Stratified k-fold,,2022,,,,,,,https://scikit-learn.org/stable/modules/cross_validation.html#stratified-k-fold,2022,March,22
+Web site,StatQuest with Josh Starmer,"StatQuest: K-nearest neighbors, Clearly Explained",,2017,,,,,,,https://youtu.be/HVXime0nQeI,2022,March,22
+Web site,UCI Edu,Glass Identification,,1987,,,,,,,https://archive-beta.ics.uci.edu/ml/datasets/glass+identification,2022,March,23
+Web site,Computerphile,Data Analysis 6: Principal Component Analysis (PCA) - Computerphile,,2019,,,,,,,https://youtu.be/TJdH6rPA-TI,2022,March,23
+Web site,Stack Overflow,Plot trees for a Random Forest in Python with Scikit-Learn,,2020,,,,,,,https://stackoverflow.com/questions/40155128/plot-trees-for-a-random-forest-in-python-with-scikit-learn,2022,March,23
+Web site,StatQuest with Josh Starmer,StatQuest: Decision Trees,,2018,,,,,,,https://youtu.be/7VeUPuFGJHk,2022,March,23
+Web site,TDS,Evaluate ML Classifier Performance using Statistical Hypothesis Testing in Python,,2020,,,,,,,https://towardsdatascience.com/evaluate-ml-classifier-performance-using-statistical-hypothesis-testing-in-python-e4b90eb27dce,2022,March,26
