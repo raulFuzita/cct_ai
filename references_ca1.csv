@@ -1,7 +1,4 @@
 Type_of_Source,Author,Title,Book_Title,Year,Month,Day,Pages,City,Publisher,Editor,Available_At,Year_Accessed,Month_Accessed,Day_Accessed
-Book section,John,Python,OOP,2022,,,1,"Ireland, Dublin",bookshelf,Jack,,,,
-Web site,Microsoft,What is a machine learning model?,,2022,,,,,,,https:www.ml.com,2022,March,8
-Document from web site,"John, Peter",Data Science,,2022,January,10,,,,,https:www.ml.com,2022,March,10
 Book section,"Peter Bruce, Andrew Bruce, and Peter Gedeck, 978-1-492-07294-2",Practical Statistics for Data Scientists,K-Nearest Neighbors,2020,April,10,238,"United States of America, Gravenstein Highway North, Sebastopol",O’Reilly,Nicole Tache,,2022,March,16
 Book section,"Peter Bruce, Andrew Bruce, and Peter Gedeck, 978-1-492-07294-2",Practical Statistics for Data Scientists,Tree Models,2020,April,10,249,"United States of America, Gravenstein Highway North, Sebastopol",O’Reilly,Nicole Tache,,2022,March,16
 Book section,"Peter Bruce, Andrew Bruce, and Peter Gedeck, 978-1-492-07294-2",Practical Statistics for Data Scientists,Choosing K,2020,April,10,246,"United States of America, Gravenstein Highway North, Sebastopol",O’Reilly,Nicole Tache,,2022,March,16
