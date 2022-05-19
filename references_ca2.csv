@@ -1,0 +1,14 @@
+Type_of_Source,Author,Title,Book_Title,Year,Month,Day,Pages,City,Publisher,Editor,Available_At,Year_Accessed,Month_Accessed,Day_Accessed
+Web site,TensorFlow,tf.keras.utils.image_dataset_from_directory,,2022,,,,,,,https://www.tensorflow.org/api_docs/python/tf/keras/utils/image_dataset_from_directory,2022,May,18
+Web site,Stack overflow,How do I use tf.keras.preprocessing.image_dataset_from_directory() to create a dataset with a certain shape?,,2022,,,,,,,https://stackoverflow.com/questions/71638403/how-do-i-use-tf-keras-preprocessing-image-dataset-from-directory-to-create-a-d,2022,May,18
+Web site,Stack overflow,ValueError: No images found in directory when running image_dataset_from directory,,2022,,,,,,,https://stackoverflow.com/questions/72058671/valueerror-no-images-found-in-directory-when-running-image-dataset-from-directo,2022,May,18
+Web site,TensorFlow,Build an image classifier (ML Zero to Hero - Part 4),,2019,,,,,,,https://youtu.be/u2TjZzNuly8,2022,May,18
+Web site,Google Colab,Rock paper scissors,,2022,,,,,,,https://colab.research.google.com/github/lmoroney/io19/blob/master/Zero%20to%20Hero/Rock-Paper-Scissors.ipynb#scrollTo=it1c0jCiNCIM,2022,May,18
+Web site,Stack overflow,Tensorflow model.fit() using a Dataset generator,,2019,,,,,,,https://stackoverflow.com/questions/55375416/tensorflow-model-fit-using-a-dataset-generator,2022,May,18
+Web site,Stack overflow,No module named 'prompt_toolkit.formatted_text',,2022,,,,,,,https://stackoverflow.com/questions/52676660/no-module-named-prompt-toolkit-formatted-text,2022,May,18
+Web site,Pypi.org,gdown 4.4.0,,2022,,,,,,,https://pypi.org/project/gdown/,2022,May,18
+Web site,Microsoft,Failure to start Kernel due to Modules not installed,,2022,,,,,,,https://github.com/microsoft/vscode-jupyter/wiki/Failure-to-start-Kernel-due-to-Modules-not-installed,2022,May,18
+Web site,Python Library,Working with Jupyter Notebook Widgets,,2022,,,,,,,https://www.blog.pythonlibrary.org/2018/10/24/working-with-jupyter-notebook-widgets/,2022,May,18
+Web site,Stack overflow,wget/curl large file from google drive,,2022,,,,,,,https://stackoverflow.com/questions/25010369/wget-curl-large-file-from-google-drive/39225039#39225039,2022,May,18
+Web site,Knowledge Transfer,Get Class Labels from predict method in Keras,,2022,,,,,,,https://androidkt.com/get-class-labels-from-predict-method-in-keras/,2022,May,18
+Web site,Stack overflow,InvalidArgumentError: Graph execution error in B3,,2022,,,,,,,https://stackoverflow.com/questions/71395098/invalidargumenterror-graph-execution-error-in-b3,2022,May,18
